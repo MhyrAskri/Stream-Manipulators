@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bcz/CLionProjects/StreamManipulators/main.cpp
+iostream
+-
+iomanip
+-
+vector
+-
+string
+-
+conio.h
+-
+

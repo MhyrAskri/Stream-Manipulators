@@ -1,0 +1,3 @@
+C:/Users/bcz/CLionProjects/StreamManipulators/cmake-build-debug/CMakeFiles/StreamManipulators.dir
+C:/Users/bcz/CLionProjects/StreamManipulators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bcz/CLionProjects/StreamManipulators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
